@@ -79,10 +79,11 @@ RESTful APIs                 →  Designed, documented, and deployed production-
 ---
 
 <div align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 *Open to backend collaborations and interesting engineering problems.*
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
