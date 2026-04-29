@@ -78,20 +78,6 @@ RESTful APIs                 →  Designed, documented, and deployed production-
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.shion.dev/api?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Ritesh030&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to backend collaborations and interesting engineering problems.*
