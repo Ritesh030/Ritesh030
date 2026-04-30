@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,50:1a1a2e,100:16213e\&height=220\&section=header\&text=Manav%20Chauhan\&fontSize=65\&fontColor=ffffff\&fontAlignY=40\&fontFamily=Orbitron\&desc=Quant%20Researcher%20%C2%B7%20ML%20Engineer%20%C2%B7%20Data%20Science%20and%20Analytics\&descSize=16\&descAlignY=60\&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ritesh%20Tyagi&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Orbitron&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=60&descColor=a0aec0)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/manav-chauhan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ManavChauhan123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chauhankmv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ritesh_tyagiii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshtyagi92@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=14\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Quantitative+Research+%40+WorldQuant+%F0%9F%93%88;Alpha+signals+%7C+Portfolio+Optimization+%7C+HFT+Systems;Building+ML+pipelines+for+financial+markets+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%94%A7;Payment+gateways+%7C+Webhooks+%7C+Event-driven+systems;Clean+APIs+that+hold+up+under+pressure+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
-
 
 <br>
 
