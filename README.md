@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ritesh%20Tyagi&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Raleway&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=60&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ritesh%20Tyagi&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Orbitron&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=60&descColor=a0aec0)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
