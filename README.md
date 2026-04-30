@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ritesh%20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=58&descColor=a0aec0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ritesh%20Tyagi&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Raleway&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=60&descColor=a0aec0)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
@@ -11,28 +11,49 @@
 
 </div>
 
----
+<br>
 
-## About
+## 🧑‍💻 About
+
+<table>
+<tr>
+<td>
 
 I build **scalable backend systems** that power real products — from payment flows to automated communication pipelines. My focus is on writing clean, maintainable server-side code that holds up under pressure.
 
-Currently working on backend architecture and always open to collaborating on **Three.js** projects at the intersection of graphics and engineering.
+Currently deep in **backend architecture** and always open to collaborating on **Three.js** projects at the intersection of graphics and engineering.
+
+</td>
+<td align="center" width="200">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ritesh030&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS)
+
+**📍 India**
+**⚡ Node.js + Microservices**
+**🛠 Open to Collabs**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I've Built
+## 🚀 What I've Built
 
-```
-Microservice Architectures   →  Service decomposition, inter-service communication, event-driven design
-Payment Gateway Integration  →  Razorpay / Stripe flows, webhook handling, transaction reliability
-Email Automation Pipelines   →  Transactional emails, scheduled reminders, notification systems
-RESTful APIs                 →  Designed, documented, and deployed production-grade APIs
-```
+<div align="center">
+
+| &nbsp; | Project Area | What It Involves |
+|--------|-------------|-----------------|
+| 🔧 | **Microservice Architectures** | Service decomposition, inter-service communication, event-driven design |
+| 💳 | **Payment Gateway Integration** | Razorpay / Stripe flows, webhook handling, transaction reliability |
+| 📧 | **Email Automation Pipelines** | Transactional emails, scheduled reminders, notification systems |
+| 🌐 | **RESTful APIs** | Designed, documented, and deployed production-grade APIs |
+
+</div>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -78,7 +99,7 @@ RESTful APIs                 →  Designed, documented, and deployed production-
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
