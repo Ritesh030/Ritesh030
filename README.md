@@ -99,15 +99,13 @@ Currently deep in **backend architecture** and always open to collaborating on *
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Ritesh030&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+*Open to backend collaborations and interesting engineering problems.*
 
 </div>
 
