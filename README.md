@@ -1,13 +1,13 @@
 <div align="center">
 
-# Ritesh Tyagi
-
-**Backend Engineer** · Microservices · Distributed Systems · API Design
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ritesh%20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=58&descColor=a0aec0)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ritesh_tyagiii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshtyagi92@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%94%A7;Payment+gateways+%7C+Webhooks+%7C+Event-driven+systems;Clean+APIs+that+hold+up+under+pressure+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,11 +78,16 @@ RESTful APIs                 →  Designed, documented, and deployed production-
 
 ---
 
-<div align="center">
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub Stats
 
-*Open to backend collaborations and interesting engineering problems.*
+<div align="center">
+
+![Stats](https://github-readme-stats.shion.dev/api?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Ritesh030&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritesh030&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
