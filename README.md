@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ritesh%20Tyagi&fontSize=65&fontColor=ffffff&fontAlignY=40&fontFamily=Orbitron&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Distributed%20Systems%20%C2%B7%20API%20Design&descSize=16&descAlignY=60&descColor=a0aec0)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ritesh_tyagiii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rite8778/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshtyagi38@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ritesh_tyagiii)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%94%A7;Payment+gateways+%7C+Webhooks+%7C+Event-driven+systems;Clean+APIs+that+hold+up+under+pressure+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%94%A7;Payment+gateways+%7C+Webhooks+%7C+Event-driven+systems;Clean+APIs+that+hold+up+under+pressure+%E2%9A%A1;500%2B+DSA+problems+solved+across+platforms+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,6 +30,7 @@ Currently deep in **backend architecture** and always open to collaborating on *
 
 **📍 India**
 **⚡ Node.js + Microservices**
+**🧩 500+ DSA Problems**
 **🛠 Open to Collabs**
 
 </td>
@@ -48,6 +49,15 @@ Currently deep in **backend architecture** and always open to collaborating on *
 | 💳 | **Payment Gateway Integration** | Razorpay / Stripe flows, webhook handling, transaction reliability |
 | 📧 | **Email Automation Pipelines** | Transactional emails, scheduled reminders, notification systems |
 | 🌐 | **RESTful APIs** | Designed, documented, and deployed production-grade APIs |
+
+</div>
+
+---
+
+## 🧩 DSA & Problem Solving
+
+![Solved](https://img.shields.io/badge/LeetCode-400%2B%20Problems-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Total](https://img.shields.io/badge/All%20Platforms-500%2B%20Problems-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
 
