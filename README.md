@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshtyagi264)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiteshTyag80888)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ritesh_tyagiii)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshtyagi92@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshtyagi38@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%94%A7;Payment+gateways+%7C+Webhooks+%7C+Event-driven+systems;Clean+APIs+that+hold+up+under+pressure+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 <tr>
 <td>
 
-I build **scalable backend systems** that power real products — from payment flows to automated communication pipelines. My focus is on writing clean, maintainable server-side code that holds up under pressure.
+I build **scalable backend systems** that power real products from payment flows to automated communication pipelines. My focus is on writing clean, maintainable server-side code that holds up under pressure.
 
 Currently deep in **backend architecture** and always open to collaborating on **Three.js** projects at the intersection of graphics and engineering.
 
